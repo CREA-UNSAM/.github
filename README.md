@@ -14,7 +14,7 @@
                        <th>
                            <a href="#club"> ¿Qué es el CREA?</a></td> 
                            <td><a href="#"> Participantes</a></td>
-                            <td><a href='#'> Proyectos </a></td>
+                            <td><a href='#proyectos'> Proyectos </a></td>
                            <td><a href="#redes"> Redes</a></td>
                        </th>
            </table>
@@ -25,6 +25,14 @@
       <p>
         Somos un espacio autogestionado por estudiantes, donde trabajamos en proyectos de Robótica, Electrónica y áreas afines. Aquí el aprendizaje es práctico y colaborativo, todos aportamos y aprendemos juntos. No importa si no sabés mucho, lo importante son las ganas de hacer y descubrir. Nuestro trabajo es horizontal, sin jerarquías, y el objetivo es aprender haciendo.
       </p>
+    </section>
+    <section id="proyectos">
+        <h2>Proyectos</h2>
+        <ul>
+            <li>
+                <h4>Velocista : Manolo</h4>
+            </li>
+        </ul>
     </section>
      <section id="redes">
         <h2> Nuestras redes son:</h2>
