@@ -27,7 +27,7 @@ No se requieren conocimientos previos, la forma de trabajo es colaborativa y hor
       <br>
 <h2 align="center">Proyectos</h2>
 <p align="center">🏎️ <a href="https://github.com/CREA-UNSAM/Velocista-PID-Final">Velocista</a></p>
-  <p align="center">  🎴<a href="https://github.com/CREA-UNSAM/mini-sumo">Minisumo</a></p>
+  <p align="center">  🎴<a href="https://github.com/CREA-UNSAM/Mini-sumo">Minisumo</a></p>
   <p align="center">  🕛<a href="">PenduloInvertido</a></p>
   <br>
 <h2 align="center">Habilidades </h2>
